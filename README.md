@@ -1,7 +1,7 @@
 # Seek
 
 Terminal-based semantic code search across all your local repos.
-CocoIndex handles incremental re-indexing automatically on every file save — no cron jobs.
+CocoIndex handles incremental re-indexing automatically on every file save (no cron jobs).
 
 Everything runs locally: no API keys, no cloud services, no cost.
 
