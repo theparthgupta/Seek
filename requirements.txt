@@ -1,0 +1,5 @@
+cocoindex>=0.3.0
+sentence-transformers>=3.0.0
+psycopg[binary,pool]>=3.1.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
